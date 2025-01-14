@@ -1,5 +1,4 @@
-# E-Commerce-Customer-Churn-Machine-Learning
-# 📦 E-Commerce Customer Churn Prediction  
+# 📦 E-Commerce Customer Churn Prediction - Machine Learning
 
 WebApp yang memprediksi apakah pelanggan e-commerce akan churn atau tetap loyal berdasarkan data pelanggan yang dimasukkan.  
 
