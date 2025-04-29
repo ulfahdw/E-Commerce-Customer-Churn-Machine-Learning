@@ -16,9 +16,10 @@ This project leverages **Machine Learning** (LightGBM) to predict customers at h
 ## 📊 Key Outcomes
 - **Churn Recall:** 83%
 - **Churn Precision:** 72%
-- **Estimated Profit Increase with ML:** $105,250/month
+- **Estimated Profit with ML:** $105,250/month
 
-Without the support of machine learning, the company faces potential losses of up to **$86,250/month**. Accurate churn predictions empower businesses to allocate promotional resources more effectively, leading to substantial profit improvements.
+Without churn prediction, the company experiences estimated losses of up to **$86,250/month**.  
+With machine learning, the company not only recovers these losses but achieves an estimated **profit improvement of 222%** compared to the baseline scenario without prediction.
 
 ---
 
